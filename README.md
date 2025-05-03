@@ -1,4 +1,4 @@
-#  Faze Hwid Spoofer C++ 
+#  Eye Hwid Spoofer C++ 
 
 BattlEye, EasyAntiCheat, Tencent – systems are constantly updated to combat cheats and hacks. If caught, face permanent bans linked to your hardware ID (HWID). But fear not, HWID spoofer is here to save the day.
 
